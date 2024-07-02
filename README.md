@@ -1,7 +1,7 @@
 # A* pathfinding visualizer
 
 This is a pathfinding display which uses the popular A* algorithm to calculate the shortest distance between two points.
-the display was made using pygame which means the entire A* algorithm was made from scratch to work correctly with the pygame display.
+The display was made using pygame which means the entire A* algorithm was made from scratch to work correctly within the pygame display.
 The user must select a starting tile, ending tile, and obstacle(s) for the algorithm to work with, examples are shown below
 
 ## Installation
