@@ -5,7 +5,10 @@ The display was made using pygame which means the entire A* algorithm was made f
 The user must select a starting tile, ending tile, and obstacle(s) for the algorithm to work with, examples are shown below.
 
 ## Installation
-Download the necessary folders contained in this repo.
+CHECK RELEASES FOR DOWNLOADBLE! 
+
+<img width="349" alt="Screenshot 2024-09-19 at 12 49 43 PM" src="https://github.com/user-attachments/assets/e0dedb82-5f2b-4493-8525-446a07b3ebee">
+
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pygame.
 
 ```bash
@@ -16,10 +19,10 @@ pip3 install pygame #for python3
 ```
 Next, use pygame to run the program.
 ```bash
-python aStar.py #for python
+python aStar.py spritesheet.py button.py #for python
 ```
 ```bash
-python3 aStar.py #for python3
+python3 aStar.py spritesheet.py button.py #for python3
 ```
 ## Scenes
 <img width="1193" alt="Screenshot 2024-07-01 at 7 59 04 PM" src="https://github.com/Jacob-GHub/A-pathfinder/assets/110055706/5aae920a-44dd-49a3-981e-9b8ac46a1e13">
